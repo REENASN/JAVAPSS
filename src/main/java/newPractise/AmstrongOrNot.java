@@ -3,7 +3,8 @@ package newPractise;
 public class AmstrongOrNot {
 
 	public static void main(String[] args) {
-		int N=153,result=0,rem;
+		// committed and push to Git
+		int N=371,result=0,rem;
 		int number=N;
 		while(N>0)
 		{
